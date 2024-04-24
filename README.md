@@ -9,50 +9,37 @@
     <!--- PYTHON --->
     <img src="./svg/python-icon.svg" alt="python" width="40" height="40"/>     
     <!--- GIT --->
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./svg/Git-Icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
+    <img src="./svg/Git-Icon.svg" alt="git" width="40" height="40"/> 
     <!--- MYSQL --->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     <!--- AWS --->
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="./svg/aws-icon.svg" alt="aws" width="40" height="40"/> 
-    </a>
+    <img src="./svg/aws-icon.svg" alt="aws" width="40" height="40"/> 
     <!--- JS --->
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     <!--- LINUX --->
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     <!--- NODEJS --->
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="./svg/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
-    </a> 
+    <img src="./svg/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
     <!--- DJANGO 
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="./svg/django-icon.svg" alt="django" width="40" height="40"/> 
-    </a>
+    <img src="./svg/django-icon.svg" alt="django" width="40" height="40"/> 
     --->
-    </a> 
     <!--- DOCKER
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-    </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
     --->
     <!--- EXPRESSJS
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="./svg/expressjs-icon.svg" alt="express" width="40" height="40"/> 
-    </a> 
+    <img src="./svg/expressjs-icon.svg" alt="express" width="40" height="40"/> 
      --->
     <!--- MONGODB
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="./svg/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
-    </a>
+    <img src="./svg/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
     --->
     <!--- NGINX
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-    </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
     --->
     <!--- POSTGRESQL
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="./svg/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
-    </a> 
-     --->
+    <img src="./svg/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
+    --->
     <!--- TS
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-    </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
      --->
 </p>
 
