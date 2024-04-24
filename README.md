@@ -3,9 +3,11 @@
 <p align="justify">Gerente de Tecnologia e Sócio da FK Partners, fluente em inglês e atualmente em transição para desenvolvimento Backend, com objetivo de agregar meu conhecimento de negócios em um time técnico.</p>
 <p align="center">Saiba mais da minha trajetória no Linkedin:</p>
 <p align="center">
-<a href="https://www.linkedin.com/in/fernandogrfraga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/
-github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fernandogrfraga/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fernandogrfraga/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fernandogrfraga/" height="30" width="40" /></a>
 </p>
+<!-- <a href="https://www.linkedin.com/in/fernandogrfraga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/
+github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fernandogrfraga/" height="30" width="40" /></a> -->
 <h3 align="center">Tecnologias que tenho conhecimento:</h3>
 <p align="center">
     <!--- PYTHON --->
