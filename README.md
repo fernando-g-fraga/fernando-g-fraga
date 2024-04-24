@@ -7,8 +7,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <!--- PYTHON --->
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="./svg/python-icon.svg" alt="python" width="40" height="40"/> 
-    </a> 
+    <img src="./svg/python-icon.svg" alt="python" width="40" height="40"/>     
     <!--- GIT --->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="./svg/Git-Icon.svg" alt="git" width="40" height="40"/> 
     </a> 
