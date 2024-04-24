@@ -24,11 +24,10 @@ github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     <!--- NODEJS --->
     <img src="./svg/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
+    <!--- DOCKER--->
+    <img src="./svg/docker-mark-blue.svg" alt="docker" width="40" height="40"/> 
     <!--- DJANGO 
     <img src="./svg/django-icon.svg" alt="django" width="40" height="40"/> 
-    --->
-    <!--- DOCKER
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
     --->
     <!--- EXPRESSJS
     <img src="./svg/expressjs-icon.svg" alt="express" width="40" height="40"/> 
