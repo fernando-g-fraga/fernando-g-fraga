@@ -6,8 +6,7 @@
 <a href="https://www.linkedin.com/in/fernandogrfraga/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fernandogrfraga/" height="30" width="40" /></a>
 </p>
-<!-- <a href="https://www.linkedin.com/in/fernandogrfraga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/
-github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fernandogrfraga/" height="30" width="40" /></a> -->
+
 <h3 align="center">Tecnologias que tenho conhecimento:</h3>
 <p align="center">
     <!--- PYTHON --->
@@ -25,11 +24,10 @@ github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg
     <!--- NODEJS --->
     <img src="./svg/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
     <!--- WORDPRESS --->
-    <img src="./svg/wordpress-logo-svgrepo-com.svg" alt="wordpress" width="40" height="40"/> 
-    <!--- DOCKER--->
+    <img src="./svg/WordPress-logotype-wmark-white.png" alt="wordpress" width="40" height="40"/> 
+    <!--- DOCKER --->
     <img src="./svg/docker-mark-blue.svg" alt="docker" width="40" height="40"/> 
-    
-     
+    <!--- DJANGO 
     <img src="./svg/django-icon.svg" alt="django" width="40" height="40"/> 
     --->
     <!--- EXPRESSJS
@@ -48,17 +46,10 @@ github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
      --->
 </p>
-<!-- Sessao Softskills -->
-<h3 align="center">Softskills:</h3>
-<table>
-<thead>
-<tr>
-<td align="center">Comunicação Corporativa</td>
-<td align="center">Gestão e Liderança</td>
-<td align="center">Negociação</td>
-<td align="center">Apresentação em Público</td>
-</tr>
-</table>
+<div style="display:flex; justify-content:center; text-align:center;" align="center">
+
+| Comunicação Corporativa | Gestão e Liderança | Negociação | Apresentação em Público |
+| :---------------------: | :----------------: | :--------: | :---------------------: |
 
 <!-- Sessao de Status do Github -->
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernando-g-fraga&amp;theme=dark" alt="fernando-g-fraga" /></p>
