@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernando-g-fraga&amp;abel=Visitantes&amp;color=0e75b6&amp;style=flat" alt="fernando-g-fraga" /> </p>
-<p align="justify">Gerente de Tecnologia e Sócio da FK Partners, fluente em inglês e atualmente em transição para desenvolvimento Backend, com objetivo de agregar meu conhecimento de negócios em um time técnico.</p>
+<p align="justify">5 anos de experiência no mercado de tecnologia, atualmente em transição para desenvolvimento backend.</p>
 <p align="center">Saiba mais da minha trajetória no Linkedin:</p>
 <p align="center">
-<a href="https://www.linkedin.com/in/fernandogrfraga/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fernandogrfraga/" height="30" width="40" /></a>
-</p>
 
 <h3 align="center">Tecnologias que tenho conhecimento:</h3>
 <p align="center">
@@ -51,5 +48,6 @@
 | Comunicação Corporativa | Gestão e Liderança | Negociação | Apresentação em Público |
 | :---------------------: | :----------------: | :--------: | :---------------------: |
 
-<!-- Sessao de Status do Github -->
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernando-g-fraga&amp;theme=dark" alt="fernando-g-fraga" /></p>
+<a href="https://www.linkedin.com/in/fernandogrfraga/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fernandogrfraga/" height="30" width="40" /></a>
+</p>
