@@ -42,6 +42,7 @@
      --->
 </p>
 <div style="display:flex; justify-content:center; text-align:center;" align="center">
+<h1> Softskills </h1>
 
 | Comunicação Corporativa | Gestão e Liderança | Negociação | Apresentação em Público |
 | :---------------------: | :----------------: | :--------: | :---------------------: |
