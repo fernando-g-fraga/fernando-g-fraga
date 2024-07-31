@@ -28,7 +28,6 @@
     <img src="./svg/django-icon.svg" alt="django" width="40" height="40"/> 
     <!--- Express --->
     <img src="./svg/expressjs-icon.svg" alt="express" width="40" height="40"/> 
-     
     <!--- MONGODB
     <img src="./svg/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
     --->
