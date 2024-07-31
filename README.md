@@ -3,31 +3,31 @@
 <p align="left">5 anos de experiência no mercado de tecnologia, atualmente em transição para desenvolvimento backend.</p>
 
 <h3 align="center">Tecnologias que tenho conhecimento:</h3>
-<p align="left">
+<p align="center">
     <!--- GOLANG --->
-    <img src="./svg/Go-Logo_Aqua.svg" alt="golang" width="50" height="50"/>   
+    <img src="./svg/Go-Logo_Aqua.svg" alt="golang" width="50" height="50"/>
+    <!--- JS --->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     <!--- PYTHON --->
     <img src="./svg/python-icon.svg" alt="python" width="40" height="40"/>     
+    <!--- Express --->
+    <img src="./svg/expressjs-icon.svg" alt="express" width="80" height="50"/>
+    <!--- DJANGO --->
+    <img src="./svg/django-icon.svg" alt="django" width="40" height="40"/> 
+    <!--- NODEJS --->
+    <img src="./svg/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
     <!--- GIT --->
     <img src="./svg/Git-Icon.svg" alt="git" width="40" height="40"/> 
     <!--- MYSQL --->
     <img src="./svg/mysql-svgrepo-com.svg" alt="mysql" width="40" height="40"/> 
     <!--- AWS --->
     <img src="./svg/aws-icon.svg" alt="aws" width="40" height="40"/> 
-    <!--- JS --->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    <!--- LINUX --->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    <!--- NODEJS --->
-    <img src="./svg/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
-    <!--- WORDPRESS --->
-    <img src="./svg/WordPress-logotype-wmark-white.png" alt="wordpress" width="40" height="40"/> 
     <!--- DOCKER --->
     <img src="./svg/docker-mark-blue.svg" alt="docker" width="40" height="40"/> 
-    <!--- DJANGO --->
-    <img src="./svg/django-icon.svg" alt="django" width="40" height="40"/> 
-    <!--- Express --->
-    <img src="./svg/expressjs-icon.svg" alt="express" width="40" height="40"/> 
+    <!--- LINUX --->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+    <!--- WORDPRESS --->
+    <img src="./svg/WordPress-logotype-wmark-white.png" alt="wordpress" width="40" height="40"/> 
     <!--- MONGODB
     <img src="./svg/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
     --->
