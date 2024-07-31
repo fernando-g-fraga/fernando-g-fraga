@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernando-g-fraga&amp;abel=Visitantes&amp;color=0e75b6&amp;style=flat" alt="fernando-g-fraga" /> </p>
-<p align="justify">5 anos de experiência no mercado de tecnologia, atualmente em transição para desenvolvimento backend.</p>
+<p align="left">5 anos de experiência no mercado de tecnologia, atualmente em transição para desenvolvimento backend.</p>
 
 <h3 align="center">Tecnologias que tenho conhecimento:</h3>
-<p align="center">
+<p align="left">
     <!--- GOLANG --->
     <img src="./svg/Go-Logo_Aqua.svg" alt="golang" width="50" height="50"/>   
     <!--- PYTHON --->
