@@ -4,6 +4,8 @@
 
 <h3 align="center">Tecnologias que tenho conhecimento:</h3>
 <p align="center">
+    <!--- GOLANG --->
+    <img src="./svg/Go-Logo_Aqua.svg" alt="golang" width="50" height="50"/>   
     <!--- PYTHON --->
     <img src="./svg/python-icon.svg" alt="python" width="40" height="40"/>     
     <!--- GIT --->
@@ -22,12 +24,11 @@
     <img src="./svg/WordPress-logotype-wmark-white.png" alt="wordpress" width="40" height="40"/> 
     <!--- DOCKER --->
     <img src="./svg/docker-mark-blue.svg" alt="docker" width="40" height="40"/> 
-    <!--- DJANGO 
+    <!--- DJANGO --->
     <img src="./svg/django-icon.svg" alt="django" width="40" height="40"/> 
-    --->
-    <!--- EXPRESSJS
+    <!--- Express --->
     <img src="./svg/expressjs-icon.svg" alt="express" width="40" height="40"/> 
-     --->
+     
     <!--- MONGODB
     <img src="./svg/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
     --->
