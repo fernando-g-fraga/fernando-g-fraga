@@ -10,12 +10,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
     <!--- PYTHON --->
     <img src="./svg/python-icon.svg" alt="python" width="40" height="40"/>     
-    <!--- Express --->
-    <img src="./svg/expressjs-icon.svg" alt="express" width="80" height="50"/>
     <!--- DJANGO --->
     <img src="./svg/django-icon.svg" alt="django" width="40" height="40"/> 
-    <!--- NODEJS --->
-    <img src="./svg/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
     <!--- GIT --->
     <img src="./svg/Git-Icon.svg" alt="git" width="40" height="40"/> 
     <!--- MYSQL --->
